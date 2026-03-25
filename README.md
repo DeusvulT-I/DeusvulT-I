@@ -1,4 +1,4 @@
-##                                                   👋 Hellow, my name is Artem
+                                                    ##👋 Hellow, my name is Artem
 ##                                            Student at Fedorovsky Polar State University
 ##                                           I like to play video games and sloving puzzels
 
