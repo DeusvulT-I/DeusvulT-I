@@ -1,6 +1,6 @@
-## 👋 Hellow, my name is Artem
-##  Student at Fedorovsky Polar State University
-##  I like to play video games and sloving puzzels
+##                                                   👋 Hellow, my name is Artem
+##                                            Student at Fedorovsky Polar State University
+##                                           I like to play video games and sloving puzzels
 
 <!--
 **DeusvulT-I/DeusvulT-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
