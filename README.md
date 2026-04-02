@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Arem and I'm a student at Fedorovsky Polar State University, from Norilsk.</h2>
+<h2 align="center">Hi 👋! My name is Artem and I'm a student at Fedorovsky Polar State University, from Norilsk.</h2>
 
 ###
 
